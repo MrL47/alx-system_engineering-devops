@@ -1,1 +1,1 @@
-Write a script that changes the working directory to the previous one.
+Script that lists all files in current folder and parent directory
