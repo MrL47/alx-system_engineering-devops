@@ -1,1 +1,1 @@
-Script that lists all files in current folder and parent directory
+Write a script that prints the type of the file name
