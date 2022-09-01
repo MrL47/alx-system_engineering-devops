@@ -1,1 +1,1 @@
-1. What’s in there?
+Display current directory contents in a long format
