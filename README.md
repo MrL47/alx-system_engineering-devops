@@ -1,1 +1,1 @@
-Task 0. Where am I?
+echo Display current directory contents in a long format
