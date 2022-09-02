@@ -1,1 +1,1 @@
-Create a script that creates a directory named my_first_directory
+Create a symbolic link to /bin/ls, named __ls__. 
