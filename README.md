@@ -1,1 +1,1 @@
-echo Display current directory contents in a long format
+Write a script that prints “Hello, World”, followed by a new line to the standard output
